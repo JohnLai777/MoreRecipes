@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:quartz_bricks"
+  },
+  "result": "minecraft:quartz_block",
+  "group": "uncrafting_to_quartzblock",
+  "count": 1
+}

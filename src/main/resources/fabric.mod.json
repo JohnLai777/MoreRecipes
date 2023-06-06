@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "morerecipesjohnlai",
+  "version": "${version}",
+
+  "name": "More Recpies-JohnLai",
+  "description": "Add recipes",
+  "authors": [
+    "JohnLai"
+  ],
+  "contact": {
+    "homepage": "https://github.com/JohnLai777",
+    "sources": "https://fabricmc.net/",
+    "email": "tommon2345@gmail.com"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/morerecipesjohnlai/icon/morerecioesicon_256pix.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.morerecipes.MoreRecipesMain"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": ">=1.20-beta.5",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:cut_red_sandstone"
+  },
+  "result": "minecraft:quartz",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lever"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 7
+  },
+  "group": "uncrafting_to_stick"
+}

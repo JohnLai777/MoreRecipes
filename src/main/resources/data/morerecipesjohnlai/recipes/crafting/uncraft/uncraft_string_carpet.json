@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool_carpets"
+    }
+  },
+  "result": {
+    "item": "minecraft:string",
+    "count": 1
+  },
+  "group": "uncrafting_to_string"
+}
