@@ -1,6 +1,6 @@
 ![image]()
 # More Recipes
-Fabric Mod
+-Fabric Mod 
 
 This mod is me codding for my friend, so probability not going update every minecraft version, only when we want play new version. But, hey, it's very semple mod, only json, everyone can custom for you need 
 function, if you can codding, youtube have more tutorial video to learn. 
