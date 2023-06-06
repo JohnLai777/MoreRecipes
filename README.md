@@ -9,7 +9,7 @@ https://modrinth.com/mod/more-recipes
 
 ![image](https://cdn-raw.modrinth.com/data/Shx1FiRc/images/6f56a1efdeeb48af2efd1875c6563ca9e1ab1e63.png)
 
-This mod is me codding for my friend, so probability not going update every minecraft version, only when we want play new version. But, hey, it's very semple mod, only json, everyone can custom for you need 
+This mod is codding for my friend, so probability not going update every minecraft version, only when we want play new version. But, hey, it's very semple mod, only json, everyone can custom for you need 
 function, if you can codding, youtube have more tutorial video to learn. 
 Have fun~
 
