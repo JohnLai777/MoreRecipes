@@ -2,6 +2,7 @@
 ![image](https://raw.githubusercontent.com/JohnLai777/Morerecipe_AddImage/main/ModIcon_256pix.png)
 # More Recipes - Mod Page -Fabric Mod
 https://modrinth.com/mod/more-recipes
+https://legacy.curseforge.com/minecraft/mc-mods/add-more-recipes
 # Recipes
 ![image](https://raw.githubusercontent.com/JohnLai777/Morerecipe_AddImage/main/moerrecipes_gui_craftingtable.png)
 
